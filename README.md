@@ -8,14 +8,13 @@ With over 2 years of experience in blockchain and other domains, I bring a wealt
 
 ## 🛠️ Hackathon wins 🏆
 <!-- Icons for the technologies and tools you use -->
-![Solana Hackday 2022]
-![Hack Web3 Conf Goa 2023]
-![Spheron dAppathon 2023]
-![Chainlink fall 2023]
-![Smart Aleo Hackathon]
-![Akashathon 2.0]
-![Akashathon 2.0]
-![Hacatron Season 6]
+- [Solana Hackday 2022]
+- [Hack Web3 Conf Goa 2023]
+- [Spheron dAppathon 2023]
+- [Chainlink fall 2023]
+- [Smart Aleo Hackathon]
+- [Akashathon 2.0]
+- [Hacatron Season 6]
 
 ## 🚀 Projects
 <!-- Showcase your projects with links -->
